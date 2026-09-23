@@ -1,1 +1,3 @@
 this is the file2 of the master 
+
+this is the updated file2.txt in master branch
